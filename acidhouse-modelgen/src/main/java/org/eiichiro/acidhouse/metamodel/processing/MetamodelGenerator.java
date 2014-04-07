@@ -34,7 +34,7 @@ import javax.tools.Diagnostic.Kind;
  * 
  * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
  */
-@SupportedSourceVersion(SourceVersion.RELEASE_6)
+@SupportedSourceVersion(SourceVersion.RELEASE_7)
 @SupportedAnnotationTypes("org.eiichiro.acidhouse.Entity")
 public class MetamodelGenerator extends AbstractProcessor {
 
