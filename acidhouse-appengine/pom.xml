@@ -5,12 +5,12 @@
   <parent>
   	<groupId>org.eiichiro.acidhouse</groupId>
   	<artifactId>acidhouse</artifactId>
-  	<version>0.6.2</version>
+  	<version>0.6.3-SNAPSHOT</version>
     <relativePath>..</relativePath>
   </parent>
   <modelVersion>4.0.0</modelVersion>
   <artifactId>acidhouse-appengine</artifactId>
-  <version>0.6.3</version>
+  <version>0.6.4-SNAPSHOT</version>
   <name>Acid House App Engine</name>
   <description>Acid House Implementation for Google App Engine</description>
   <build>
@@ -75,7 +75,7 @@
   	<dependency>
   		<groupId>org.eiichiro.acidhouse</groupId>
   		<artifactId>acidhouse-api</artifactId>
-  		<version>0.6.2</version>
+  		<version>0.6.3-SNAPSHOT</version>
   		<scope>compile</scope>
   	</dependency>
   	<dependency>
