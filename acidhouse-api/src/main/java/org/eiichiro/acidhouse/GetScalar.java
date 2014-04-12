@@ -43,7 +43,7 @@ package org.eiichiro.acidhouse;
  * 
  * @see Aggregation
  * @see Aggregations
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 public interface GetScalar<E, R> extends Command<R> {
 

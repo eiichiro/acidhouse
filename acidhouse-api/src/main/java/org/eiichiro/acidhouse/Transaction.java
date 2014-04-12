@@ -18,7 +18,7 @@ package org.eiichiro.acidhouse;
 /**
  * {@code Transaction} represents a Session transaction.
  * 
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 public interface Transaction {
 

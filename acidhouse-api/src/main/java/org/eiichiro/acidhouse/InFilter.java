@@ -31,7 +31,7 @@ import org.eiichiro.acidhouse.metamodel.Property;
  * method.
  * 
  * @see ComparableProperty
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 public class InFilter<T extends Comparable<T>> implements Filter<T> {
 

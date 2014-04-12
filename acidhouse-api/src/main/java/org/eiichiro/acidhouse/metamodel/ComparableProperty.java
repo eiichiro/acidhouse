@@ -62,7 +62,7 @@ import org.eiichiro.acidhouse.Order;
  * 		.execute();
  * </pre>
  * 
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 public class ComparableProperty<E, T extends Comparable<T>> extends Property<E, T> {
 

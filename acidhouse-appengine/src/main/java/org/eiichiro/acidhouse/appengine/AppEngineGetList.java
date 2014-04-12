@@ -44,7 +44,7 @@ import com.google.appengine.api.datastore.Query.FilterOperator;
  * {@code AppEngineGetList} is a App Engine Low-level Datastore API based 
  * implementation of {@code GetList}.
  * 
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 public class AppEngineGetList<E> implements GetList<E> {
 

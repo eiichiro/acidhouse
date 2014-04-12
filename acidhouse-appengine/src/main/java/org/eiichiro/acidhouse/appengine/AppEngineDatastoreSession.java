@@ -52,7 +52,7 @@ import com.google.appengine.api.datastore.Transaction;
  * with Strong session.
  * 
  * @see AppEngineStrongDatastoreSession
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 public class AppEngineDatastoreSession implements Session {
 

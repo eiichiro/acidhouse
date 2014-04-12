@@ -52,7 +52,7 @@ import org.eiichiro.acidhouse.metamodel.Property;
  * }
  * </pre>
  * 
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 public interface Update<E> extends Command<Integer> {
 
@@ -91,7 +91,7 @@ public interface Update<E> extends Command<Integer> {
 	/**
 	 * Modification function applied to the property to be updated.
 	 * 
-	 * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+	 * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
 	 */
 	public static interface Modification<T> {
 		

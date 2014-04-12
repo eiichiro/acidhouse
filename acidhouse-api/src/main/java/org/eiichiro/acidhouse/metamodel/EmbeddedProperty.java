@@ -23,7 +23,7 @@ import org.eiichiro.acidhouse.Embedded;
  * {@code EmbeddedProperty} represents a metamodel of {@link Embedded} value 
  * entity property.
  * 
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 public abstract class EmbeddedProperty<E, T> extends Property<E, T> {
 

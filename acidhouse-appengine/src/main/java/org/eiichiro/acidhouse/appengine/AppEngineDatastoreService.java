@@ -35,7 +35,7 @@ import com.google.appengine.api.utils.SystemProperty;
  * {@code AppEngineDatastoreService} is a convenient wrapper of 
  * {@code com.google.appengine.api.datastore.DatastoreService}.
  * 
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 public class AppEngineDatastoreService {
 

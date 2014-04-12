@@ -32,7 +32,7 @@ import org.eiichiro.acidhouse.metamodel.Property;
  * {@code AppEngineUpdate} is a App Engine Low-level Datastore API based 
  * implentation of {@code Update}.
  * 
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 public class AppEngineUpdate<E> implements Update<E> {
 

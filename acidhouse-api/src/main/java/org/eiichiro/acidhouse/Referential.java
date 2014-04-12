@@ -84,7 +84,7 @@ import java.lang.annotation.Target;
  * assertThat(entity72.entity1.i, is(11));
  * </pre>
  * 
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 @Documented
 @Target(ElementType.FIELD)

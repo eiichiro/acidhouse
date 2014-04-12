@@ -20,7 +20,7 @@ import java.util.logging.Logger;
 import org.eiichiro.acidhouse.IndoubtException;
 
 /**
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 public class AppEngineGlobalTransaction extends AppEngineTransaction {
 

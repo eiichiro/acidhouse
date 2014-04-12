@@ -29,7 +29,7 @@ import org.eiichiro.reverb.lang.UncheckedException;
  * name of property, the {@code Metamodel} instance which has this metamodel 
  * property and {@code String} path representation to this metamodel property.
  * 
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 public class Property<E, T> {
 

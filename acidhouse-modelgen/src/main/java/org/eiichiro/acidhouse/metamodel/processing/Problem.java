@@ -22,7 +22,7 @@ import javax.tools.Diagnostic.Kind;
  * {@code Problem} represents a problem occurred in the metamodel generation.
  * This problem is reported by {@code javax.annotation.processing.Messager}.
  * 
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 public class Problem {
 

@@ -19,7 +19,7 @@ package org.eiichiro.acidhouse;
  * {@code Command} is the root interface of Acid Houses' "Typesafe command 
  * builder API".
  * 
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 public interface Command<R> {
 

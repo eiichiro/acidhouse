@@ -25,7 +25,7 @@ import java.lang.annotation.Target;
  * {@code Transient} represents the annotated property is not persistent in the 
  * datastore.
  * 
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 @Documented
 @Target(ElementType.FIELD)

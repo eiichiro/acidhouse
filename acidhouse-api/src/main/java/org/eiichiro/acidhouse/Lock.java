@@ -23,7 +23,7 @@ import java.util.Date;
  * This object is used for the distributed locking provided by the Acid House 
  * implementation.
  * 
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 public class Lock {
 

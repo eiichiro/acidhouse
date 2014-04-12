@@ -24,14 +24,14 @@ import org.eiichiro.acidhouse.metamodel.Property;
  * comparable property values (Make sure these property value types implements 
  * {@code Comparable}).
  * 
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 public class ComparableFilter<T extends Comparable<T>> implements Filter<T> {
 
 	/**
 	 * {@code Operator} represents the type of property comparison operator.
 	 * 
-	 * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+	 * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
 	 */
 	public static enum Operator {
 		

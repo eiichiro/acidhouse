@@ -30,7 +30,7 @@ import org.eiichiro.acidhouse.Order;
  * <a href="http://code.google.com/intl/en/appengine/docs/java/datastore/queriesandindexes.html#Restrictions_on_Queries">
  * here</a>.
  * 
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 public class QueryRestriction {
 

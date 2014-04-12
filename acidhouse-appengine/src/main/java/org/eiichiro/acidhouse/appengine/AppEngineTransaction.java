@@ -32,7 +32,7 @@ import com.google.appengine.api.datastore.Transaction;
  * {@code AppEngineTransaction} is a Google App Engine Low-level Datastore API 
  * based implementation of {@code org.eiichiro.acidhouse.Transaction}.
  * 
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 public class AppEngineTransaction implements org.eiichiro.acidhouse.Transaction {
 

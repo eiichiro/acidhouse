@@ -24,7 +24,7 @@ package org.eiichiro.acidhouse;
  * manage them and commit these operations atomically by 
  * <a href="http://en.wikipedia.org/wiki/Two-phase_commit_protocol">Two-phase commit protocol</a>.
  * 
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 public interface Coordinator {
 

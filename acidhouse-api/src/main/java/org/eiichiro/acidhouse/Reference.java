@@ -19,7 +19,7 @@ package org.eiichiro.acidhouse;
  * {@code Reference} is a built-in entity that represents an entity reference 
  * (referential property).
  * 
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 public class Reference {
 

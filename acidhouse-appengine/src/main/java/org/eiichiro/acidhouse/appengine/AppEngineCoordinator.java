@@ -38,7 +38,7 @@ import com.google.appengine.api.datastore.Transaction;
  * {@code AppEngineCoordinator} is a App Engine Low-level Datastore API based 
  * {@code Coordinator} implementation.
  * 
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 public class AppEngineCoordinator implements Coordinator {
 

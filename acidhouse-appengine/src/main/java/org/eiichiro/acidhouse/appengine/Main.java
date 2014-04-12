@@ -21,7 +21,7 @@ import static org.eiichiro.acidhouse.Version.*;
  * {@code Main} is a command line interface to print the information about this 
  * Acid House build.
  * 
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 public class Main {
 

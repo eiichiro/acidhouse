@@ -40,7 +40,7 @@ import com.google.appengine.api.datastore.Transaction;
  * {@code AppEngineResourceManager} is a App Engine Low-level Datastore API 
  * based {@code ResourceManager} implementation.
  * 
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 public class AppEngineResourceManager implements ResourceManager<Transaction> {
 

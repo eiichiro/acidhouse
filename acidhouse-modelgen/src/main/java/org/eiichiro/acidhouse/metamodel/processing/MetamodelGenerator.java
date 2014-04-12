@@ -32,7 +32,7 @@ import javax.tools.Diagnostic.Kind;
  * {@code MetamodelGenerator} is a "JSR 269 annotation processor" based Java 
  * source code generator of Acid House entity metamodel.
  * 
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 @SupportedSourceVersion(SourceVersion.RELEASE_7)
 @SupportedAnnotationTypes("org.eiichiro.acidhouse.Entity")

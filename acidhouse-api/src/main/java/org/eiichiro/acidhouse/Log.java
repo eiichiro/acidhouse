@@ -21,14 +21,14 @@ package org.eiichiro.acidhouse;
  * distributed transaction commitment and also used for the state dump when a 
  * transaction is failed.
  * 
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 public class Log {
 
 	/**
 	 * {@code Operation} is the type of datastore operation.
 	 * 
-	 * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+	 * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
 	 */
 	public static enum Operation {
 		
@@ -49,7 +49,7 @@ public class Log {
 	/**
 	 * {@code State} is the state of datastore operation.
 	 * 
-	 * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+	 * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
 	 */
 	public static enum State {
 		

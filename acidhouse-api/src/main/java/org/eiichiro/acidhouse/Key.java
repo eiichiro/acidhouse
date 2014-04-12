@@ -26,7 +26,7 @@ import java.lang.annotation.Target;
  * field is used as the key to get the corresponding entity instance from 
  * the datastore. An entity class must have one {@code Key} annotated field.
  * 
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 @Retention(RetentionPolicy.RUNTIME)
 @Documented

@@ -24,7 +24,7 @@ import java.util.List;
  * get this exception, you have to recover your data consistency immediately 
  * from the transaction log dump.
  * 
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 public class IndoubtException extends RuntimeException {
 

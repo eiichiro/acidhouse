@@ -30,7 +30,7 @@ import com.google.appengine.api.datastore.Transaction;
  * This implementation supports the strong consistency in multiple entity groups 
  * manipulation by the atomic commitment and consistent read.
  * 
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 public class AppEngineStrongDatastoreSession extends AppEngineDatastoreSession
 		implements Session {

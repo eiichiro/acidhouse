@@ -26,7 +26,7 @@ import com.google.appengine.api.datastore.KeyFactory;
  * {@code Keys} are utility methods for Google App Engine Datastore {@code Key}-
  * related operations.
  * 
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 public class Keys {
 

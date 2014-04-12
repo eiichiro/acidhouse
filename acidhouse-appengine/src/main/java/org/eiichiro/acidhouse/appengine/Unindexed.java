@@ -25,7 +25,7 @@ import java.lang.annotation.Target;
  * {@code Unindexed} is a marker annotation to represent a unindexed property in 
  * the App Engine built-in single property indexes.
  * 
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 @Retention(RetentionPolicy.RUNTIME)
 @Documented

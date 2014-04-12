@@ -25,7 +25,7 @@ import org.eiichiro.reverb.lang.UncheckedException;
  * {@code Entities} is a utility class to provide convenient methods for 
  * Acid House entity.
  * 
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 public class Entities {
 

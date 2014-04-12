@@ -29,7 +29,7 @@ import org.eiichiro.acidhouse.metamodel.Metamodel;
  * {@code AppEngineDelete} is a App Engine Low-level Datastore API based 
  * implementation of {@code Delete}.
  * 
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 public class AppEngineDelete<E> implements Delete<E> {
 

@@ -32,7 +32,7 @@ import org.eiichiro.acidhouse.metamodel.Property;
  * {@code AppEngineGetScalar} is a App Engine Low-level Datastore API based 
  * implementation of {@code GetScalar}.
  * 
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 public class AppEngineGetScalar<E, R> implements GetScalar<E, R> {
 

@@ -23,7 +23,7 @@ import org.eiichiro.reverb.lang.UncheckedException;
 /**
  * {@code Metamodels} provides some {@code Metamodel} control methods.
  * 
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 public abstract class Metamodels {
 

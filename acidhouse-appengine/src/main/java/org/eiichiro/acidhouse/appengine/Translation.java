@@ -59,7 +59,7 @@ import com.google.storage.onestore.v3.OnestoreEntity.EntityProto;
  * {@code Translation} provides translation utilities between Acid House data types 
  * and Google App Engine Datastore data types.
  * 
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 public class Translation {
 

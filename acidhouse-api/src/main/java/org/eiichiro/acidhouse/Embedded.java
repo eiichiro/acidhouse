@@ -27,7 +27,7 @@ import java.lang.annotation.Target;
  * Embedded value type is extracted in persistence and each property is stored 
  * as owner entity's property.
  * 
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 @Documented
 @Retention(RetentionPolicy.RUNTIME)

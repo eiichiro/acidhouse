@@ -35,7 +35,7 @@ import javax.tools.Diagnostic.Kind;
  * {@code EntityValidator} validates the declaration of Acid House entity and 
  * returns the problems for metamodel generation.
  * 
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 public class EntityValidator {
 

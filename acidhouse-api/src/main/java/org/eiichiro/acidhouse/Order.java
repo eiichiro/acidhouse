@@ -44,14 +44,14 @@ import org.eiichiro.acidhouse.metamodel.EmbeddedProperty;
  * @see ComparableProperty
  * @see GetList
  * @see GetScalar
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 public class Order<E, T extends Comparable<T>> implements Comparator<E> {
 
 	/**
 	 * {@code Direction} represents a sorting direction.
 	 * 
-	 * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+	 * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
 	 */
 	public static enum Direction {
 

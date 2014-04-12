@@ -24,7 +24,7 @@ import java.util.ConcurrentModificationException;
  * and {@code Coordinator} (especially, in distributed transaction), and applies 
  * datastore operation to the managed entity with the datastore-specific APIs.
  * 
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 public interface ResourceManager<T> {
 

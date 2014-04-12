@@ -47,7 +47,7 @@ import org.eiichiro.acidhouse.metamodel.Property;
  * <b>Better to static-import this class.</b>
  * 
  * @see Aggregation
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 public abstract class Aggregations {
 

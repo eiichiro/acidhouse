@@ -28,7 +28,7 @@ import org.eiichiro.acidhouse.metamodel.Property;
  * {@code Aggregation} instances.
  * 
  * @see Aggregations
- * @author <a href="mailto:eiichiro@eiichiro.org">Eiichiro Uchiumi</a>
+ * @author <a href="mailto:mail@eiichiro.org">Eiichiro Uchiumi</a>
  */
 public abstract class Aggregation<T> {
 
