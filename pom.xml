@@ -11,7 +11,7 @@
   <packaging>pom</packaging>
   <name>Acid House</name>
   <url>http://acidhouse.eiichiro.org/</url>
-  <description>Acid House is a generic NoSQL Java client library can be performed on JDK 7 Java platform</description>
+  <description>Acid House is a generic NoSQL Java client library can be performed on JDK >8 Java platform</description>
   <modules>
       <module>acidhouse-api</module>
       <module>acidhouse-appengine</module>
